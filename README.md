@@ -34,8 +34,3 @@ Add support for multiple file formats (e.g., PDF, Markdown)
 
 Integrate speech-to-text functionality
 
-Advanced AI suggestions for content enhancement
-
-
-Rishita Paul
-GitHub Profile: https://github.com/your-username
